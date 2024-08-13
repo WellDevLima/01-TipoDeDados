@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 	cout << "Estrutura de Dados - Fatec" << endl;
-	cout << "Do Wellington"
+	cout << "Do Wellington" << endl;
 	
 	cout << "Tipos Numericos\n";
 	cout << "===============\n";
